@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rrre/!svn/ver/27/ahorcado/features/step_definitions
+END
+ahorcado_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/rrre/!svn/ver/27/ahorcado/features/step_definitions/ahorcado_steps.rb
+END
+my_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rrre/!svn/ver/1/ahorcado/features/step_definitions/my_steps.rb
+END
+web_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/rrre/!svn/ver/1/ahorcado/features/step_definitions/web_steps.rb
+END

@@ -1,0 +1,954 @@
+# Logfile created on Fri Dec 06 15:24:49 -0200 2013 by logger.rb/1.2.6
+D, [2013-12-06T15:24:49.504147 #2333] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:24:49.519367 #2333] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:24:49.522529 #2333] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:24:49.525042 #2333] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:24:49.527750 #2333] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"0", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:24:49.530330 #2333] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:24:49.538227 #2333] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:24:49.540895 #2333] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:24:49.543506 #2333] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:24:49.545953 #2333] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:27:20.984205 #2339] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:27:20.999419 #2339] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:27:21.002108 #2339] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:27:21.004532 #2339] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:27:21.007401 #2339] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:27:21.017705 #2339] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:27:21.020750 #2339] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:27:21.023394 #2339] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"0", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:27:21.025613 #2339] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:27:21.027704 #2339] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:27:21.031285 #2339] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:27:21.033187 #2339] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:27:21.035455 #2339] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:45:07.522745 #2369] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:45:07.534872 #2369] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:45:07.539896 #2369] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:45:07.542555 #2369] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:45:07.545361 #2369] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:45:07.547120 #2369] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:45:07.549267 #2369] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:45:07.551948 #2369] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"0"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:45:07.559312 #2369] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:45:07.561977 #2369] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:45:07.564983 #2369] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:45:07.568376 #2369] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:45:07.571569 #2369] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:48:32.955938 #2375] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:48:32.967848 #2375] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:48:32.973734 #2375] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:48:32.976148 #2375] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:48:32.979497 #2375] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:48:32.983071 #2375] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:48:32.993654 #2375] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:48:32.997557 #2375] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"0"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:48:33.000591 #2375] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:48:33.003699 #2375] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:48:33.006551 #2375] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:48:33.008796 #2375] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:48:33.010901 #2375] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:48:33.013697 #2375] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:48:33.016494 #2375] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:48:33.019564 #2375] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:56:55.576034 #2397] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:56:55.591471 #2397] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:56:55.593951 #2397] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:56:55.595348 #2397] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:56:55.599534 #2397] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:56:55.601337 #2397] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:56:55.608534 #2397] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:56:55.612233 #2397] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"0", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:56:55.614531 #2397] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:56:55.617191 #2397] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:56:55.619924 #2397] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:56:55.622298 #2397] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:56:55.624584 #2397] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:56:55.627108 #2397] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:56:55.631153 #2397] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:56:55.634327 #2397] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:58:31.429828 #2401] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:58:31.445091 #2401] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:58:31.448186 #2401] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:58:31.450878 #2401] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:58:31.453687 #2401] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:58:31.461139 #2401] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:58:31.464246 #2401] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:58:31.467477 #2401] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T15:58:31.469859 #2401] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:58:31.471997 #2401] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:58:31.474386 #2401] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T15:58:31.476563 #2401] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T15:58:31.479226 #2401] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:00:11.643514 #2406] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:00:11.658353 #2406] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:00:11.661287 #2406] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:00:11.663621 #2406] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:00:11.666652 #2406] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:00:11.669225 #2406] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:00:11.678191 #2406] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:00:11.681978 #2406] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:00:11.684473 #2406] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:00:11.686930 #2406] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:00:11.689225 #2406] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:00:11.691068 #2406] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:00:11.693887 #2406] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:23:23.279223 #2438] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:23:23.291521 #2438] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:23:23.297785 #2438] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:23:23.300324 #2438] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:23:23.304827 #2438] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:23:23.315503 #2438] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:23:23.317759 #2438] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:23:23.320989 #2438] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:23:23.323595 #2438] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:23:23.325820 #2438] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:23:23.328164 #2438] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:23:23.331147 #2438] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:23:23.333893 #2438] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:25:11.273091 #2443] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:25:11.285245 #2443] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:25:11.290990 #2443] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:25:11.293204 #2443] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:25:11.295716 #2443] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:25:11.297681 #2443] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:25:11.299558 #2443] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:25:11.310111 #2443] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:25:11.314210 #2443] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:25:11.316963 #2443] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:25:11.319147 #2443] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:25:11.321441 #2443] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:25:11.324734 #2443] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:25:11.326802 #2443] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:25:11.329481 #2443] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:25:11.332132 #2443] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:31:38.955010 #2455] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:31:38.971640 #2455] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:31:38.974488 #2455] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:31:38.977328 #2455] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:31:38.980030 #2455] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:31:38.982251 #2455] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:31:38.991347 #2455] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:31:38.996245 #2455] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:31:38.999261 #2455] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:31:39.002974 #2455] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:31:39.005320 #2455] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:31:39.007654 #2455] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:31:39.010156 #2455] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:31:39.012490 #2455] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:31:39.014847 #2455] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:31:39.017627 #2455] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:37:20.275426 #2472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:37:21.190569 #2472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:37:22.108988 #2472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:37:23.018303 #2472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:37:23.936780 #2472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:37:24.836910 #2472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:37:25.741453 #2472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:37:26.674575 #2472] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:38:33.585294 #2476] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:38:33.600546 #2476] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:38:33.603324 #2476] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:38:33.605485 #2476] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:38:33.607871 #2476] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:38:33.616588 #2476] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:38:33.620209 #2476] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:38:33.623435 #2476] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:38:33.625809 #2476] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:38:33.628046 #2476] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:38:33.630885 #2476] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:38:33.633293 #2476] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:38:33.636002 #2476] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:38:33.637866 #2476] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:38:33.640206 #2476] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:38:33.643665 #2476] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:38:33.651682 #2476] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:38:33.654548 #2476] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:38:33.657856 #2476] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:39:34.918901 #2479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:39:34.931697 #2479] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:39:34.936823 #2479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:39:34.939184 #2479] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:39:34.941912 #2479] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:39:34.943879 #2479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:39:34.947494 #2479] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:39:34.956694 #2479] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:39:34.959231 #2479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:39:34.963107 #2479] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:39:34.965657 #2479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:39:34.967521 #2479] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:39:34.970194 #2479] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:39:34.972356 #2479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:39:34.974869 #2479] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:39:34.977622 #2479] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:39:34.979875 #2479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:39:34.988258 #2479] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:39:34.991031 #2479] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:40:38.671330 #2482] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:40:38.683628 #2482] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:40:38.688963 #2482] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:40:38.691274 #2482] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:40:38.693692 #2482] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:40:38.695836 #2482] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:40:38.698620 #2482] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:40:38.707252 #2482] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:40:38.709875 #2482] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:40:38.712098 #2482] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:40:38.714783 #2482] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:40:38.716982 #2482] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:40:38.719757 #2482] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:40:38.722292 #2482] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:40:38.724786 #2482] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:40:38.727167 #2482] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:40:38.729749 #2482] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:40:38.732335 #2482] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:40:38.740854 #2482] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:45:12.061199 #2487] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:45:12.076077 #2487] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:45:12.079221 #2487] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:45:12.081783 #2487] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:45:12.084714 #2487] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:45:12.092403 #2487] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:45:12.095295 #2487] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:45:12.098291 #2487] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:45:12.100811 #2487] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:45:12.103266 #2487] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:45:12.105613 #2487] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:45:12.108019 #2487] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:45:12.111306 #2487] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:45:12.113737 #2487] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:45:12.116367 #2487] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:45:12.119665 #2487] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:45:12.128166 #2487] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T16:45:12.131122 #2487] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T16:45:12.133634 #2487] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T16:45:12.136980 #2487] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T16:45:12.139849 #2487] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T16:45:12.142623 #2487] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"enviar", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T17:04:55.176690 #1648] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T17:04:55.193850 #1648] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T17:04:55.196745 #1648] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T17:04:55.199019 #1648] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T17:04:55.201923 #1648] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T17:04:55.203640 #1648] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T17:04:55.215130 #1648] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T17:04:55.219004 #1648] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T17:04:55.221592 #1648] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T17:04:55.224302 #1648] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T17:04:55.226728 #1648] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T17:04:55.228855 #1648] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T17:04:55.232038 #1648] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T17:04:55.234853 #1648] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T17:04:55.239040 #1648] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T17:04:55.242953 #1648] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T17:04:55.252313 #1648] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T17:04:55.254815 #1648] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T17:04:55.258124 #1648] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T17:04:55.261184 #1648] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T17:04:55.265522 #1648] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T17:04:55.269048 #1648] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:32:08.717698 #2200] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:08.733454 #2200] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:08.736379 #2200] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:08.738648 #2200] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:08.741838 #2200] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:08.743062 #2200] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:08.752892 #2200] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:08.756205 #2200] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:08.758533 #2200] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:08.761131 #2200] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:08.766372 #2200] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:08.769139 #2200] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:08.771897 #2200] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:08.773485 #2200] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:08.777283 #2200] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:08.780101 #2200] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:08.790987 #2200] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:08.793816 #2200] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:08.796860 #2200] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:08.799715 #2200] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:32:08.803196 #2200] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:32:08.806007 #2200] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:32:43.409821 #2202] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:43.424949 #2202] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:43.427893 #2202] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:43.430245 #2202] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:43.432818 #2202] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:43.435641 #2202] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:43.444490 #2202] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:43.447876 #2202] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:43.450335 #2202] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:43.452309 #2202] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:43.454984 #2202] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:43.457543 #2202] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:43.460641 #2202] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:43.463172 #2202] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:43.465872 #2202] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:43.469000 #2202] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:43.477968 #2202] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:43.481560 #2202] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:32:43.484729 #2202] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:32:43.487758 #2202] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:32:43.491056 #2202] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:32:43.493820 #2202] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:32:43.518470 #2202] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:32:43.521932 #2202] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:42:01.755779 #2223] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:42:01.771765 #2223] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:42:01.775137 #2223] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:42:01.777214 #2223] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:42:01.779966 #2223] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:42:01.781986 #2223] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:42:01.790003 #2223] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:42:01.793237 #2223] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:42:01.795864 #2223] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:42:01.798347 #2223] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:42:01.800614 #2223] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:42:01.803551 #2223] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:42:01.806608 #2223] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:42:01.809081 #2223] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:42:01.811634 #2223] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:42:01.814889 #2223] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:42:01.817554 #2223] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:42:01.828140 #2223] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:42:01.831827 #2223] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:42:01.835424 #2223] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:42:01.838122 #2223] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:42:01.841558 #2223] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"enviar"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:42:01.868366 #2223] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:42:01.872817 #2223] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:45:19.793554 #2233] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:45:19.810638 #2233] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:45:19.814031 #2233] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:45:19.817022 #2233] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:45:19.826368 #2233] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:45:19.829591 #2233] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:45:19.833495 #2233] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:45:19.837963 #2233] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:45:19.840870 #2233] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:45:19.844400 #2233] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:45:19.847343 #2233] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:45:19.850769 #2233] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:45:19.860657 #2233] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:45:19.863802 #2233] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:45:19.867498 #2233] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:45:19.871833 #2233] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:45:19.874895 #2233] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:45:19.877373 #2233] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T18:45:19.881573 #2233] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T18:45:19.890947 #2233] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:45:19.895072 #2233] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:45:19.921322 #2233] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T18:45:19.924993 #2233] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T18:45:19.928680 #2233] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:09:45.284909 #2249] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:09:45.301463 #2249] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:09:45.304852 #2249] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:09:45.308368 #2249] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:09:45.317817 #2249] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:09:45.321167 #2249] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:09:45.324608 #2249] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:09:45.328169 #2249] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:09:45.331612 #2249] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:09:45.334924 #2249] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:09:45.337576 #2249] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:09:45.340818 #2249] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:09:45.344651 #2249] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:09:45.354347 #2249] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:09:45.357642 #2249] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:09:45.361202 #2249] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:09:45.364626 #2249] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:09:45.367958 #2249] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:09:45.371782 #2249] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:09:45.376400 #2249] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:09:45.385358 #2249] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:09:45.407792 #2249] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:09:45.415997 #2249] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:09:45.420147 #2249] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:10:58.559093 #2251] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:10:58.571656 #2251] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:10:58.578539 #2251] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:10:58.581460 #2251] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:10:58.585087 #2251] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:10:58.594759 #2251] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:10:58.598409 #2251] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:10:58.602059 #2251] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:10:58.605428 #2251] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:10:58.608214 #2251] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:10:58.611809 #2251] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:10:58.615068 #2251] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:10:58.618259 #2251] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:10:58.621364 #2251] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:10:58.631187 #2251] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:10:58.634983 #2251] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:10:58.637463 #2251] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:10:58.640737 #2251] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:10:58.644947 #2251] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:10:58.648602 #2251] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:10:58.652210 #2251] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:10:58.678834 #2251] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:10:58.681726 #2251] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:10:58.689829 #2251] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:10:58.693205 #2251] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:12:31.641782 #2254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:12:31.657268 #2254] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:12:31.661858 #2254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:12:31.665031 #2254] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:12:31.674330 #2254] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:12:31.677312 #2254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:12:31.680628 #2254] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:12:31.684421 #2254] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:12:31.687629 #2254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:12:31.691229 #2254] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:12:31.694059 #2254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:12:31.697571 #2254] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:12:31.701247 #2254] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:12:31.710526 #2254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:12:31.713676 #2254] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:12:31.716955 #2254] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:12:31.720789 #2254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:12:31.723401 #2254] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:12:31.726854 #2254] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:12:31.730716 #2254] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:12:31.740676 #2254] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:12:31.761661 #2254] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:12:31.770669 #2254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:12:31.774540 #2254] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:12:31.777562 #2254] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.152462 #2258] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.169827 #2258] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:13:36.174016 #2258] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.177455 #2258] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:13:36.187330 #2258] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:13:36.190442 #2258] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.194002 #2258] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:13:36.198580 #2258] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:13:36.201938 #2258] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.204801 #2258] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:13:36.208323 #2258] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.212974 #2258] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:13:36.225149 #2258] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:13:36.229419 #2258] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.233287 #2258] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:13:36.237137 #2258] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:13:36.240111 #2258] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.243765 #2258] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:13:36.256730 #2258] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:13:36.261447 #2258] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:13:36.264570 #2258] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:13:36.292656 #2258] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:13:36.297145 #2258] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.302762 #2258] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:13:36.305712 #2258] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:13:36.307487 #2258] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.383284 #2260] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.400872 #2260] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:14:03.405104 #2260] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.407902 #2260] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:14:03.411474 #2260] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:14:03.420255 #2260] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.423343 #2260] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:14:03.427011 #2260] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:14:03.430070 #2260] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.433694 #2260] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:14:03.437470 #2260] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.440966 #2260] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:14:03.451401 #2260] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:14:03.454771 #2260] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.457978 #2260] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:14:03.462049 #2260] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:14:03.465086 #2260] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.469242 #2260] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:14:03.475361 #2260] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:14:03.484179 #2260] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:14:03.488426 #2260] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:14:03.515767 #2260] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:14:03.518873 #2260] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.522146 #2260] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:14:03.525071 #2260] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:14:03.527766 #2260] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.672393 #2267] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.688992 #2267] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:19:04.692253 #2267] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.695495 #2267] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:19:04.698914 #2267] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:19:04.707009 #2267] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.710405 #2267] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:19:04.714894 #2267] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:19:04.717858 #2267] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.720855 #2267] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:19:04.723922 #2267] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.727048 #2267] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:19:04.730579 #2267] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:19:04.734291 #2267] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.743839 #2267] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:19:04.750155 #2267] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:19:04.753083 #2267] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.756864 #2267] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:19:04.760801 #2267] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:19:04.764449 #2267] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:19:04.768029 #2267] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:19:04.795193 #2267] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:19:04.802579 #2267] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.807247 #2267] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:19:04.810572 #2267] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.812524 #2267] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:19:04.814174 #2267] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.100450 #2272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.116325 #2272] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:20:24.119767 #2272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.122969 #2272] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:20:24.126285 #2272] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:20:24.135216 #2272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.138716 #2272] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:20:24.142031 #2272] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:20:24.145295 #2272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.148928 #2272] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:20:24.151963 #2272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.155374 #2272] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:20:24.158781 #2272] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:20:24.162362 #2272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.171421 #2272] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:20:24.175775 #2272] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:20:24.178155 #2272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.181584 #2272] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:20:24.185168 #2272] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:20:24.188790 #2272] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:20:24.192936 #2272] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:20:24.218881 #2272] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:20:24.222359 #2272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.230381 #2272] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:20:24.233991 #2272] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.235884 #2272] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:20:24.237447 #2272] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.699652 #2277] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.716038 #2277] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:08.719415 #2277] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.722483 #2277] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:08.726048 #2277] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:08.734389 #2277] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.737941 #2277] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:08.741402 #2277] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:08.745178 #2277] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.748417 #2277] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:08.751498 #2277] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.754916 #2277] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:08.757100 #2277] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:08.767613 #2277] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.771322 #2277] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:08.774391 #2277] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:08.777073 #2277] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.780713 #2277] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:08.784325 #2277] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:08.788038 #2277] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:24:08.797400 #2277] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:24:08.822017 #2277] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:24:08.831812 #2277] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.835233 #2277] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:08.838362 #2277] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.840638 #2277] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:24:08.844210 #2277] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.702768 #2281] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.716310 #2281] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:38.723370 #2281] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.726486 #2281] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:38.730223 #2281] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:38.738784 #2281] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.743016 #2281] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:38.745564 #2281] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:38.748363 #2281] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.751202 #2281] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:38.755395 #2281] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.758747 #2281] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:38.761929 #2281] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:38.770863 #2281] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.775710 #2281] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:38.780640 #2281] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:38.784808 #2281] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.788637 #2281] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:38.803733 #2281] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:24:38.812937 #2281] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:24:38.821113 #2281] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:24:38.857195 #2281] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:24:38.867598 #2281] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.872374 #2281] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:24:38.876648 #2281] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.879038 #2281] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.882489 #2281] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:24:38.886278 #2281] DEBUG -- : REQUESTING PAGE: GET /login with {"telefono"=>"1234567890", "entrar"=>"Entrar", "nick"=>"rrre"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:29:58.218861 #2292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:29:59.070976 #2292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:29:59.928908 #2292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:30:00.777595 #2292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:30:01.619817 #2292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:30:02.455424 #2292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:30:03.306351 #2292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:30:04.167768 #2292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:30:05.017328 #2292] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:30:05.020636 #2292] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:30:05.022997 #2292] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:30:05.062339 #2292] DEBUG -- : REQUESTING PAGE: GET /login with {"nick"=>"rrre", "telefono"=>"1234567890", "entrar"=>"Entrar"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:31:11.853021 #2298] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.868607 #2298] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:31:11.872525 #2298] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.876704 #2298] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:31:11.887605 #2298] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:31:11.891778 #2298] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.894902 #2298] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:31:11.898471 #2298] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:31:11.901350 #2298] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.904712 #2298] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:31:11.907366 #2298] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.910794 #2298] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:31:11.920854 #2298] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:31:11.924108 #2298] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.927396 #2298] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:31:11.931151 #2298] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:31:11.934271 #2298] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.937393 #2298] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:31:11.940882 #2298] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:31:11.944536 #2298] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:31:11.955283 #2298] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:31:11.975402 #2298] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:31:11.984583 #2298] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.988261 #2298] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:31:11.991493 #2298] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.993803 #2298] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.995910 #2298] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:31:11.999331 #2298] DEBUG -- : REQUESTING PAGE: GET /login with {"telefono"=>"1234567890", "nick"=>"rrre", "entrar"=>"Entrar"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:32:23.636483 #2301] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:32:24.554371 #2301] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:32:25.474517 #2301] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:32:26.380159 #2301] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:32:27.295140 #2301] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:32:28.202006 #2301] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:32:29.104326 #2301] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:32:30.025043 #2301] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:32:30.929352 #2301] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:32:30.931478 #2301] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:32:30.933601 #2301] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:32:30.952367 #2301] DEBUG -- : REQUESTING PAGE: GET /login with {"nick"=>"rrre", "entrar"=>"Entrar", "telefono"=>"1234567890"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:33:14.301602 #2303] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:33:15.228446 #2303] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:33:16.146246 #2303] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:33:17.053231 #2303] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:33:17.984268 #2303] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:33:18.902665 #2303] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:33:19.829414 #2303] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:33:20.757640 #2303] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:33:21.677293 #2303] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:33:21.679928 #2303] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:33:21.682419 #2303] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:33:21.688214 #2303] DEBUG -- : REQUESTING PAGE: GET /login with {"entrar"=>"Entrar", "nick"=>"rrre", "telefono"=>"1234567890"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:35:15.507450 #2310] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.523848 #2310] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:35:15.527957 #2310] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.530997 #2310] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:35:15.534238 #2310] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:35:15.542931 #2310] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.545835 #2310] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:35:15.552794 #2310] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:35:15.557745 #2310] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.561834 #2310] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:35:15.564958 #2310] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.568423 #2310] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:35:15.577695 #2310] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:35:15.581201 #2310] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.585379 #2310] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:35:15.589157 #2310] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:35:15.592564 #2310] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.595577 #2310] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:35:15.599392 #2310] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:35:15.609055 #2310] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:35:15.613036 #2310] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:35:15.640239 #2310] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:35:15.643730 #2310] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.647038 #2310] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:35:15.650341 #2310] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.652931 #2310] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.654796 #2310] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:35:15.658467 #2310] DEBUG -- : REQUESTING PAGE: GET /login with {"telefono"=>"1234567890", "entrar"=>"Entrar", "nick"=>"rrre"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:36:36.835487 #2312] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.848912 #2312] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:36:36.855638 #2312] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.858107 #2312] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:36:36.861831 #2312] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:36:36.864515 #2312] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.873584 #2312] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:36:36.877423 #2312] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:36:36.881325 #2312] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.883766 #2312] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:36:36.887632 #2312] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.890815 #2312] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:36:36.894617 #2312] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:36:36.897711 #2312] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.907227 #2312] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:36:36.912516 #2312] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:36:36.916038 #2312] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.919321 #2312] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:36:36.922924 #2312] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:36:36.927179 #2312] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:36:36.930062 #2312] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:36:36.956744 #2312] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:36:36.960284 #2312] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.968941 #2312] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:36:36.972798 #2312] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.975200 #2312] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.978330 #2312] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:36:36.981612 #2312] DEBUG -- : REQUESTING PAGE: GET /login with {"nick"=>"rrre", "telefono"=>"1234567890", "entrar"=>"Entrar"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:38:08.630117 #2314] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.646567 #2314] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:38:08.650131 #2314] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.653105 #2314] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:38:08.662041 #2314] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:38:08.666190 #2314] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.669944 #2314] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:38:08.674296 #2314] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:38:08.677905 #2314] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.681301 #2314] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:38:08.686000 #2314] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.690196 #2314] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:38:08.701156 #2314] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:38:08.704979 #2314] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.708235 #2314] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:38:08.711846 #2314] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:38:08.715119 #2314] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.718014 #2314] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:38:08.727667 #2314] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:38:08.732411 #2314] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:38:08.736441 #2314] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:38:08.763173 #2314] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:38:08.766746 #2314] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.770333 #2314] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:38:08.773329 #2314] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.776158 #2314] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.778232 #2314] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:38:08.780945 #2314] DEBUG -- : REQUESTING PAGE: GET /login with {"nick"=>"rrre", "telefono"=>"1234567890", "entrar"=>"Entrar"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:40:45.876434 #2318] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:40:45.892688 #2318] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:40:45.895771 #2318] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:40:45.899070 #2318] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:40:45.902328 #2318] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:40:45.910183 #2318] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:40:45.913631 #2318] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:40:45.917118 #2318] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:40:45.920343 #2318] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:40:45.923443 #2318] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:40:45.926138 #2318] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:40:45.930071 #2318] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:40:45.933908 #2318] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:40:45.937560 #2318] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:40:45.945785 #2318] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:40:45.949928 #2318] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:40:45.952619 #2318] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:40:45.955853 #2318] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:40:45.959904 #2318] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:40:45.963960 #2318] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:40:45.967865 #2318] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:40:45.994786 #2318] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:40:45.998449 #2318] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:40:46.006906 #2318] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:40:46.010454 #2318] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:40:46.013029 #2318] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:40:46.015292 #2318] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:40:46.018459 #2318] DEBUG -- : REQUESTING PAGE: GET / with {"telefono"=>"1234567890", "nick"=>"rrre", "entrar"=>"Entrar"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:41:21.792162 #2320] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.805102 #2320] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:41:21.811661 #2320] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.815019 #2320] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:41:21.817892 #2320] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:41:21.820892 #2320] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.829333 #2320] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:41:21.833231 #2320] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:41:21.836555 #2320] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.839214 #2320] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:41:21.842895 #2320] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.846434 #2320] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:41:21.849948 #2320] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:41:21.853046 #2320] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.862430 #2320] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:41:21.866424 #2320] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:41:21.869560 #2320] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.872773 #2320] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:41:21.876668 #2320] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:41:21.881387 #2320] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:41:21.885910 #2320] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:41:21.913408 #2320] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:41:21.916477 #2320] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.925475 #2320] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:41:21.929281 #2320] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.931792 #2320] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.933886 #2320] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:41:21.936738 #2320] DEBUG -- : REQUESTING PAGE: GET / with {"nick"=>"rrre", "entrar"=>"Entrar", "telefono"=>"1234567890"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:42:02.338844 #2322] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:03.259472 #2322] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:04.179448 #2322] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:05.089477 #2322] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:06.031472 #2322] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:06.952281 #2322] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:07.874145 #2322] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:08.803251 #2322] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:09.753166 #2322] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:42:09.756484 #2322] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:42:09.758987 #2322] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:42:09.764503 #2322] DEBUG -- : REQUESTING PAGE: GET / with {"telefono"=>"1234567890", "nick"=>"rrre", "entrar"=>"Entrar"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:42:48.758709 #2325] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.774095 #2325] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:42:48.778350 #2325] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.781286 #2325] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:42:48.790347 #2325] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:42:48.793490 #2325] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.796536 #2325] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:42:48.801000 #2325] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:42:48.804106 #2325] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.806957 #2325] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:42:48.810501 #2325] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.813392 #2325] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:42:48.816790 #2325] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:42:48.826192 #2325] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.830928 #2325] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:42:48.834467 #2325] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:42:48.837372 #2325] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.840257 #2325] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:42:48.844336 #2325] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:42:48.847992 #2325] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:42:48.857623 #2325] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:42:48.880647 #2325] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:42:48.889296 #2325] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.892605 #2325] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:42:48.895849 #2325] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.898617 #2325] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.900898 #2325] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:42:48.904765 #2325] DEBUG -- : REQUESTING PAGE: GET / with {"entrar"=>"Entrar", "telefono"=>"1234567890", "nick"=>"rrre"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:45:52.874142 #2332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:45:52.890700 #2332] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:45:52.894357 #2332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:45:52.898304 #2332] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:45:52.907778 #2332] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:45:52.910852 #2332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:45:52.914374 #2332] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:45:52.917811 #2332] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:45:52.921058 #2332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:45:52.925069 #2332] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:45:52.928236 #2332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:45:52.931388 #2332] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:45:52.935198 #2332] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:45:52.944316 #2332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:45:52.947945 #2332] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:45:52.951486 #2332] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:45:52.954535 #2332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:45:52.957180 #2332] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:45:52.961563 #2332] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:45:52.965233 #2332] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:45:52.974956 #2332] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:45:53.002340 #2332] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:45:53.005785 #2332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:45:53.009185 #2332] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:45:53.012570 #2332] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:45:53.015213 #2332] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:45:53.017286 #2332] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:45:53.020544 #2332] DEBUG -- : REQUESTING PAGE: GET / with {"entrar"=>"Entrar", "nick"=>"rrre", "telefono"=>"1234567890"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:50:17.213061 #2351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.229165 #2351] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:50:17.232553 #2351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.235518 #2351] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:50:17.238682 #2351] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:50:17.247101 #2351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.250619 #2351] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:50:17.254234 #2351] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:50:17.257642 #2351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.261294 #2351] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:50:17.263968 #2351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.267653 #2351] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:50:17.270833 #2351] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:50:17.273728 #2351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.283085 #2351] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:50:17.286473 #2351] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:50:17.290637 #2351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.294303 #2351] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:50:17.298233 #2351] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:50:17.301596 #2351] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:50:17.310926 #2351] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:50:17.335264 #2351] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:50:17.343863 #2351] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.347909 #2351] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:50:17.350434 #2351] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.352781 #2351] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.355266 #2351] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:50:17.359144 #2351] DEBUG -- : REQUESTING PAGE: GET / with {"telefono"=>"1234567890", "nick"=>"rrre", "entrar"=>"Entrar"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:52:21.542823 #2355] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:21.556062 #2355] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:22.443306 #2355] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:22.447527 #2355] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:23.345079 #2355] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:23.348348 #2355] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:24.244107 #2355] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:24.247755 #2355] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:25.193228 #2355] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:25.197240 #2355] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:26.103364 #2355] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:26.107364 #2355] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:27.021970 #2355] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:27.028126 #2355] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:27.916291 #2355] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:27.920219 #2355] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:27.923114 #2355] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:52:27.924631 #2355] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:52:27.927142 #2355] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:52:27.930555 #2355] DEBUG -- : REQUESTING PAGE: GET / with {"telefono"=>"1234567890", "nick"=>"rrre", "entrar"=>"Entrar"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2013-12-06T19:52:33.197216 #2356] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.213568 #2356] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:33.217051 #2356] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.219940 #2356] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:33.223250 #2356] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:52:33.231671 #2356] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.235268 #2356] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:33.239604 #2356] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"y", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:52:33.242693 #2356] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.245934 #2356] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:33.248852 #2356] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.252141 #2356] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:33.255947 #2356] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:52:33.265074 #2356] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.269254 #2356] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:33.273023 #2356] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"o", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:52:33.276651 #2356] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.279443 #2356] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:33.283343 #2356] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"t", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2013-12-06T19:52:33.287445 #2356] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"a", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:52:33.297345 #2356] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"x", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:52:33.318039 #2356] DEBUG -- : REQUESTING PAGE: GET letra with {"letra"=>"i", "enviar"=>"Enviar Letra"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2013-12-06T19:52:33.321087 #2356] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.330280 #2356] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-12-06T19:52:33.333754 #2356] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.335804 #2356] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.338319 #2356] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2013-12-06T19:52:33.342071 #2356] DEBUG -- : REQUESTING PAGE: GET / with {"entrar"=>"Entrar", "nick"=>"rrre", "telefono"=>"1234567890"} and HTTP headers {"HTTP_REFERER"=>"/login"}
+D, [2014-02-27T01:45:21.797447 #1792] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-02-27T01:45:21.830915 #1792] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-02-27T01:45:21.835649 #1792] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-02-27T01:45:21.840450 #1792] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-02-27T01:45:21.845047 #1792] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2014-02-27T01:45:21.848889 #1792] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-02-27T01:45:21.862821 #1792] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-02-27T01:45:21.871665 #1792] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"y"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2014-02-27T01:45:21.876576 #1792] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-02-27T01:45:21.881818 #1792] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"raton"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-02-27T01:45:21.893030 #1792] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-02-27T01:45:21.899485 #1792] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-02-27T01:45:21.906515 #1792] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2014-02-27T01:45:21.910522 #1792] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-02-27T01:45:21.914671 #1792] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"cocodrilo"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-02-27T01:45:21.929295 #1792] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"o"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2014-02-27T01:45:21.934590 #1792] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-02-27T01:45:21.940643 #1792] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"taxi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-02-27T01:45:21.945956 #1792] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"t"} and HTTP headers {"HTTP_REFERER"=>"palabra"}
+D, [2014-02-27T01:45:21.958240 #1792] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"a"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2014-02-27T01:45:21.999919 #1792] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"x"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2014-02-27T01:45:22.006301 #1792] DEBUG -- : REQUESTING PAGE: GET letra with {"enviar"=>"Enviar Letra", "letra"=>"i"} and HTTP headers {"HTTP_REFERER"=>"letra"}
+D, [2014-02-27T01:45:22.016700 #1792] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-02-27T01:45:22.020759 #1792] DEBUG -- : REQUESTING PAGE: GET palabra with {"palabra"=>"ta xi"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-02-27T01:45:22.024663 #1792] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2014-02-27T01:45:22.030020 #1792] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2014-02-27T01:45:22.033076 #1792] DEBUG -- : REQUESTING PAGE: GET /login with {} and HTTP headers {}
+D, [2014-02-27T01:45:22.037380 #1792] DEBUG -- : REQUESTING PAGE: GET / with {"telefono"=>"1234567890", "nick"=>"rrre", "entrar"=>"Entrar"} and HTTP headers {"HTTP_REFERER"=>"/login"}
